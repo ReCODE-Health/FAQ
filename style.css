@@ -8,6 +8,9 @@ html{
 img{
     max-width:100%;
     max-height:100%;
+    border-style: solid;
+    border-color: #969696;
+    border-width: 3px;
 }
 
 body{
@@ -17,7 +20,7 @@ body{
     width: 80%;
     max-width: 100%;
     background-image: url("Slide1.JPG");
-    margin: 0;
+    margin: auto;
     min-height: 100vh;
 }
 .container-inner {
@@ -33,9 +36,10 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
-    font-size: 1.63rem;
+    font-size: 1.85rem;
     line-height: 26px;
     color: #ffffff;
+    padding-bottom: 5%;
 }
 .tab-container{
     padding: 20px 7rem;
