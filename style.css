@@ -19,7 +19,7 @@ body{
 .container{
     width: 80%;
     max-width: 100%;
-    background-image: url("Slide1.JPG");
+    background-color: 1e1e1e;
     margin: auto;
     min-height: 100vh;
 }
